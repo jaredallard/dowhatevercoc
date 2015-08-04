@@ -1,6 +1,6 @@
 # Do Whatever Code of Conduct
-The Do Whatever Code of Conduct / a fair CoC
 
+A non-restrictive Code of Conduct.
 
 ## Why?
 
