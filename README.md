@@ -4,7 +4,7 @@ A non-restrictive Code of Conduct.
 
 ## Why?
 
-Because stuff like [Open Code of Conduct](https://github.com/todogroup/opencodeofconduct) is a bit to suppresive
+Because stuff like [Open Code of Conduct](https://github.com/todogroup/opencodeofconduct) is a bit too suppresive
 and restrictive.
 
 ## What does this CoC do?
