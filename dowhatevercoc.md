@@ -2,8 +2,6 @@
 
 #### Version 1.0
 
-All contributors, participators, and users of this software, regardless of their; sex, age, color, or any other *unique* factor,
-are allowed to act in whatever way they see fit regarding their participation or actions involving this project.
+All contributors, participators and users of this software, regardless of their sex, age, ethnicity, nationality or any other characteristic, are permitted to act in any manner they see fit with regards to this project.
 
-However, their actions are not representable of this project, and are subject to any backlash from others, or project leads, that
-may occur due to their actions.
+However, their actions are in no way representative of the project, and they are responsible for any consequences that arise as a result or response to their actions.
