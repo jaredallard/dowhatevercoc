@@ -4,7 +4,7 @@ The Do Whatever Code of Conduct / a fair CoC
 
 ## Why?
 
-Because stuff like [Open Code of Conduct](link) is a bit to supressing on people.
+Because stuff like [Open Code of Conduct](https://github.com/todogroup/opencodeofconduct) is a bit to supressing on people.
 
 ## What does this CoC do?
 
@@ -13,7 +13,7 @@ That is only fair.
 
 ## License
 
-WTFPL v3 (or greater)
+WTFPL v2
 
 ## Contributing?
 
